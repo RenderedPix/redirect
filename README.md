@@ -3,5 +3,5 @@
 
 #### > You can find a website by using our Directory! 
 
-[Discord Directory](/discord)
+[Discord Directory](/discord) |
 [ROBLOX](/roblox)
